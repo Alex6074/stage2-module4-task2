@@ -2,7 +2,7 @@ package com.mjc.stage2.impl;
 
 import org.junit.jupiter.api.Test;
 
-public class ProxyConnectionTest {
+public class ProxyTest {
     private static final String URL = "url";
     private static final String LOGIN = "login";
     private static final String PASSWORD = "password";
